@@ -2,7 +2,7 @@
  + 提供一些開發規範，讓大家在各個功能撰寫使用上可以有個區隔的判斷
  + 此規範以可維護性，與可讀性為基礎構思設計
  + 可以依專案需求進行變形
- + [hackmd](https://hackmd.io/OrQOCsQWRp-emBgPYGXF8g?both)
+ + [hackmd](https://hackmd.io/@pONMMCWcRMSASTBgLGLkyg/ByaUm2Wg8)
 
 ## 三層式架構
 + 商業邏輯層 BLL ( Business Logic Layer )
